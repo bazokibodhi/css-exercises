@@ -22,6 +22,12 @@ body {
   display: flex;
 }
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
 .footer {
   height: 72px;
   background: #eee;
