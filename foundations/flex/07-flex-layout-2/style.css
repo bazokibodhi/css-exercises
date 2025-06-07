@@ -12,6 +12,11 @@ body {
   color: white;
 }
 
+.body {
+  flex: 1;
+  display: flex;
+}
+
 .footer {
   height: 72px;
   background: #eee;
